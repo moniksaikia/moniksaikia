@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Monikuntala Saikia (she/her) and I am looking for full-time opportunities
-- 🌱 I’m currently learning Business Analytics and Data Science at the University of Washington ('22 grad)
-- 🌱 I have 4 years of experience as a Finance Analyst and 1 year as a Business Intelligence Consultant
+- 👋 Hi, I’m Monikuntala Saikia (she/her).
+-     I am a 2022 University of WAshington, Master of Science in Business graduate.
+- 🌱 I am looking for fulltime roles in Analytics, Business Intelligence and Data Science
+- 🌱 I have a combined experience of 5+ years in Business Intelligence and Finance
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/monik28/ 
 - 📫 Check out my Tableau Profile https://public.tableau.com/app/profile/monikuntala.saikia
 
