@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monikuntala Saikia (she/her).
--    I am a Master of Science in Business graduate of the University of Washington (2022)
+- 👋 I am a Master of Science in Business graduate of the University of Washington (2022)
 - 🌱 I am looking for fulltime roles in Analytics, Business Intelligence and Data Science
 - 🌱 I have a combined experience of 5+ years in Business Intelligence and Finance
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/monik28/ 
